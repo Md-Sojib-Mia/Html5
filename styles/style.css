@@ -1,0 +1,14 @@
+nav li{
+    display: inline;
+    margin-right: 15px;
+    list-style: none;
+}
+
+nav li a{
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;
+    
+}
